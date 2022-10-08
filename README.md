@@ -13,5 +13,5 @@ Further we provide a list of sumbitted and published publication dedicated to th
 
 4) Stripinis, L., & Paulavičius, R. (2022). An empirical study of various candidate selection and partitioning techniques in the DIRECT framework. Journal of Global Optimization, 1-31.[https://doi.org/10.1007/s10898-022-01185-5](https://doi.org/10.1007/s10898-022-01185-5)
 
-3) Gudžius, P., Kurasova, O., Darulis, V., & Filatovas, E. (2023). Neural Architecture Search for object recognition in satellite imagery. Informatica. Sumbitted. Link
+3) Gudžius, P., Kurasova, O., Darulis, V., & Filatovas, E. (2023). Neural Architecture Search for object recognition in satellite imagery. Informatica. Sumbitted. [Link](https://github.com/fernest/BlockAIRes/blob/main/Publications/Neural%20Architecture%20Search%20for%20object%20recognition%20in%20satellite%20imagery.pdf)
 
