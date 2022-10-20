@@ -18,10 +18,10 @@ Here we provide a list of sumbitted and published publication dedicated to the p
 
 ## Tools and datasets
 Here we provide a list of tools and collected data dedicated to the project:
-1) **MCDM-ConSel** – *a Framework for Blockchain Consensus Protocol Selection using MCDM* [Link](https://github.com/blockchain-group/MCDM-ConSel)
-
-  It contains a tool to determine criteria importance weights, a tool with MCDM methods, and dataset of state-of-the-art consensus protocols.
+1) **MCDM-ConSel** – *a Framework for Blockchain Consensus Protocol Selection using MCDM*. [Link](https://github.com/blockchain-group/MCDM-ConSel)
+    >Framework contains a tool to determine criteria importance weights, a tool with MCDM methods, and dataset of state-of-the-art consensus protocols.
   
-2) *A dataset of 125 high resolution (30cm per pixel) RGB-PanSharpen geotiffs satellite images* [Link](https://github.com/VUDataScience/Deep-learning-based-object-recognition-in-multispectral-satellite-imagery-for-real-time-applicatio)
+2) *A dataset of high resolution satellite images*. [Link](https://github.com/VUDataScience/Deep-learning-based-object-recognition-in-multispectral-satellite-imagery-for-real-time-applicatio) 
+    >Dataset contains 125 high resolution (30cm per pixel) RGB-PanSharpen geotiffs satellite images with 80,316 labelled objects equivalent to 50 km2 AOI of Paris, Shanghai, Las Vegas, and Khartoum.
 
 
