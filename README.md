@@ -23,19 +23,19 @@ Here, we provide a list of publications dedicated to the project in peer-reviewe
 
 ## Presentations at conferences
 
-1) **2023 December**: _DAMSS 2023_ – 14th conference on data analysis methods for software systems, Druskininkai, Lithuania. Cluster-based classification of consensus protocols for decentralized ledger technology.
+1) **2023 December**: _DAMSS 2023_ – 14th conference on data analysis methods for software systems, Druskininkai, Lithuania. _Cluster-based classification of consensus protocols for decentralized ledger technology_.
 
-2) **2023 June**: _NUMTA 2023_ –  4th International Conference and Summer School “Numerical Computations: Theory and Algorithms”, Calabria, Italy. Towards Reproducible Research in AI via Blockchain. 
+2) **2023 June**: _NUMTA 2023_ –  4th International Conference and Summer School “Numerical Computations: Theory and Algorithms”, Calabria, Italy. _Towards Reproducible Research in AI via Blockchain_. 
 
-3) **2022 June**: _EURO 2022_ – 32nd European Conference on Operational Research, Espoo, Finland. Evaluation of the energy usage of Ethereum blockchain network.
+3) **2022 June**: _EURO 2022_ – 32nd European Conference on Operational Research, Espoo, Finland. _Evaluation of the energy usage of Ethereum blockchain network_.
 
-4) **2022 December**: _DAMSS 2022_ – 13th International Workshop „Data Analysis Methods for Software Systems“, Druskininkai, Lithuania. Impact of transition from Prof-of-Work to Prof-of-Stake consensus protocols on energy consumption.
+4) **2022 December**: _DAMSS 2022_ – 13th International Workshop „Data Analysis Methods for Software Systems“, Druskininkai, Lithuania. _Impact of transition from Prof-of-Work to Prof-of-Stake consensus protocols on energy consumption_.
 
-5) **2022 July**: _LOD 2022_ –  the 8th International Online & Onsite Conference on Machine Learning, Optimization, and Data Science, Tuscany, Italy. Convolutional Neural Networks and Neural Architecture Search for Satellite Imagery Analysis.
+5) **2022 July**: _LOD 2022_ –  the 8th International Online & Onsite Conference on Machine Learning, Optimization, and Data Science, Tuscany, Italy. _Convolutional Neural Networks and Neural Architecture Search for Satellite Imagery Analysis_.
 
-6) **2021 July**: _EURO 2021_ – 31st European Conference on Operational Research, Athens, Greece. Application of MCDM approaches to select consensus algorithms for blockchain systems.
+6) **2021 July**: _EURO 2021_ – 31st European Conference on Operational Research, Athens, Greece. _Application of MCDM approaches to select consensus algorithms for blockchain systems_.
 
-7) **2021 December**: _DAMSS 2021_ – 12th International Workshop „Data Analysis Methods for Software Systems“, Druskininkai, Lithuania. Application of MCDM Techniques for Consensus Protocol Selection.
+7) **2021 December**: _DAMSS 2021_ – 12th International Workshop „Data Analysis Methods for Software Systems“, Druskininkai, Lithuania._ Application of MCDM Techniques for Consensus Protocol Selection_.
 
 ## Research visits
 1) **2024 June**: University of Cagliari, Sardinia, Italy (1 week)
